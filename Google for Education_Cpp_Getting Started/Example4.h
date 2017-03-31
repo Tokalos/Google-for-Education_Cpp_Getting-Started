@@ -12,5 +12,6 @@ public:
 	int guess_random;
 	bool flag;
 	void GuessingGame();
+	int number_of_guesses;
 };
 
