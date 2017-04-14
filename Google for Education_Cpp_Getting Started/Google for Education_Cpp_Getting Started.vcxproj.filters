@@ -27,6 +27,9 @@
     <ClInclude Include="Example4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="GreatestCommonDivisor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Example1.cpp">
@@ -39,6 +42,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Example4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GreatestCommonDivisor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
