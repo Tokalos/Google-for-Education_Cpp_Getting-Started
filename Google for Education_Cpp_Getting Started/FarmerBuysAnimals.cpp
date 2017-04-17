@@ -28,7 +28,7 @@ void FarmerBuysAnimals::HowManyAnimals()
 		for (pigs = 0; pigs<100; pigs++) // loop of pigs
 			for (rabbits = 0; rabbits<100; rabbits++) // loop of rabbits
 				if (horses + pigs + rabbits == 100) { // we check if the number of animals is equal to 100
-					if (((horse_price * horses) + (pig_price * pigs) + (rabbits_price*rabbits)) == number_dolars) //check if the sum of all the animal prices is 100
+					if (((horse_price * horses) + (pig_price * pigs) + (rabbits_price*rabbits)) == number_dolars) //check if the sum of all the animal prices is number_dolars
 						std::cout << "\nFound :" << horses << " horses, " << pigs << " pigs, " << rabbits << " rabbits.";
 				}
 

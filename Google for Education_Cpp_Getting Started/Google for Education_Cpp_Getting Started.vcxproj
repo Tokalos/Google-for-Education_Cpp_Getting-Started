@@ -152,6 +152,7 @@
     <ClInclude Include="FarmerBuysAnimals.h" />
     <ClInclude Include="GreatestCommonDivisor.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="RecursiveFactorial.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Example1.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="FarmerBuysAnimals.cpp" />
     <ClCompile Include="GreatestCommonDivisor.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RecursiveFactorial.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
