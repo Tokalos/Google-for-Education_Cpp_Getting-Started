@@ -5,6 +5,7 @@
 #include"FarmerBuysAnimals.h"
 #include "RecursiveFactorial.h"
 #include <iostream>
+#include"Example7.h"
 
 
 
@@ -22,6 +23,8 @@ int main() {
 	fba.HowManyAnimals();
 	RecursiveFactorial rf1;
 	std::cout<<rf1.Factorial(6);*/
+	Example7 e7;
+	e7.Interface();
 
 	return 0;
 }
