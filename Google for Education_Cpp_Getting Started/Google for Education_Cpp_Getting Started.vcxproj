@@ -150,6 +150,7 @@
     <ClInclude Include="Example2.h" />
     <ClInclude Include="Example4.h" />
     <ClInclude Include="Example7.h" />
+    <ClInclude Include="Exercise1.h" />
     <ClInclude Include="FarmerBuysAnimals.h" />
     <ClInclude Include="GreatestCommonDivisor.h" />
     <ClInclude Include="main.h" />
@@ -160,6 +161,7 @@
     <ClCompile Include="Example2.cpp" />
     <ClCompile Include="Example4.cpp" />
     <ClCompile Include="Example7.cpp" />
+    <ClCompile Include="Exercise1.cpp" />
     <ClCompile Include="FarmerBuysAnimals.cpp" />
     <ClCompile Include="GreatestCommonDivisor.cpp" />
     <ClCompile Include="main.cpp" />

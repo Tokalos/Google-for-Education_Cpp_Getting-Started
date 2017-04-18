@@ -39,6 +39,9 @@
     <ClInclude Include="Example7.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Exercise1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Example1.cpp">
@@ -63,6 +66,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Example7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

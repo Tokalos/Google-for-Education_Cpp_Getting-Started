@@ -27,7 +27,7 @@ int Example7::GetInput()
 
 	std::cout << "Enter number of units sold per week: ";
 	if (!(std::cin >> WeeklySales)) {
-		std::cout << "Numbers only\n";
+		std::cout << "Integer Numbers only\n";
 		return 0;
 	}
 	else {
